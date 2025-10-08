@@ -6,7 +6,7 @@ export default function Contact() {
           <h1 className="text-4xl font-black text-[#2a2a2a] mb-6">Contact Us</h1>
           <div className="space-y-6 text-[#2a2a2a]">
             <p className="text-lg leading-relaxed">
-              We'd love to hear from you! Get in touch with us for any inquiries about our properties or services.
+              We&apos;d love to hear from you! Get in touch with us for any inquiries about our properties or services.
             </p>
             <div className="space-y-4">
               <div>

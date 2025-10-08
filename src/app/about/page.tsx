@@ -12,7 +12,7 @@ export default function AboutUs() {
               With years of experience in the real estate industry, we understand what makes a house a home. Our team of professionals is committed to providing exceptional service and guidance throughout your home-buying journey.
             </p>
             <p className="text-lg leading-relaxed">
-              We believe that everyone deserves to live in a space that reflects their personality and meets their needs. That's why we work tirelessly to match our clients with properties that exceed their expectations.
+              We believe that everyone deserves to live in a space that reflects their personality and meets their needs. That&apos;s why we work tirelessly to match our clients with properties that exceed their expectations.
             </p>
           </div>
         </div>
